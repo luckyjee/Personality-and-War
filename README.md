@@ -1,2 +1,2 @@
 # Personality-and-War
-An experiment exploring how the decisions of initiating and terminating a conflict are shaped by different personal dispositions. 
+An experiment exploring how the decisions of initiating and terminating a conflict are shaped by different persoanlity types. This project employs conjoint experiment (Hainmueller, Hopkins, & Yamamoto 2014) fielded on 991 adults recruited via MTurk and utilizes the 44-item Big Five Inventory (John, Naumann & Soto 2008). The "average marginal component effect", or AMCE, is the primary focus of the choice respondents make, representing the average difference in the probability of being chosen when comparing two different attribute values. 
